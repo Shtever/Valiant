@@ -1,0 +1,18 @@
+body {
+    background-image: url(Assets/Knight.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand {
+    margin-left: 1rem;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top:1%;
+    margin: 0 auto;
+}
